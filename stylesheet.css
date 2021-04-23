@@ -41,6 +41,7 @@ a{
     width: 60%;
     height: 2.5rem;
     margin: 8px;
+    border-style: solid;
 }
 
 button{
@@ -54,8 +55,9 @@ button{
 #apps{
     height: 2rem;
     width: 2rem;
+    padding-right: 0.5rem;
 }
 
 #signin{
-    background-color: teal;
+    background-color: rgb(43, 119, 182);
 }
